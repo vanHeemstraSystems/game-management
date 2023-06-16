@@ -1,11 +1,11 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/map-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/map-management/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/game-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/game-management/actions/workflows/publish.yml)
 
-map-management
-# Map Management
+game-management
+# Game Management
 
-Can be read as "Map Management" at https://app.gitbook.com/s/Rs3XPuVclvoj92Exb9AA/
+Can be read as "Game Management" at https://app.gitbook.com/s/Rs3XPuVclvoj92Exb9AA/
 
-Can be browsed as "Map Management" at https://vanheemstrasystems.github.io/map-management/
+Can be browsed as "Game Management" at https://vanheemstrasystems.github.io/game-management/
 
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
@@ -24,5 +24,5 @@ Run as follows:
 
 ```
 $ cd containers/app
-$ docker-compose --file docker-compose.dev.yml --project-name map-management-dev up --build -d
+$ docker-compose --file docker-compose.dev.yml --project-name game-management-dev up --build -d
 ```
