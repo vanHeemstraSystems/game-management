@@ -17,6 +17,12 @@ Based on "JointJS - React Example App With TypeScript And SCSS Using Create-Reac
 
 Agility Game Board
 
+**Notes**:
+
+- A Card is represented by a JointJS Node
+- A Deck of Cards is represented by a collection of JointJS Nodes.
+- A Relationship between Cards is represented by a JointJS Link.
+
 Create yarn.lock file as follows:
 
 ```
