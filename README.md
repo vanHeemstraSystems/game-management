@@ -13,6 +13,10 @@ Based on "How to Run PostgreSQL and pgAdmin Using Docker" at https://towardsdata
 
 Based on "JointJS - React Example App With TypeScript And SCSS Using Create-React-App" at https://resources.jointjs.com/tutorial/react-ts
 
+![Agility Game - Board](https://github.com/vanHeemstraSystems/game-management/assets/1499433/fb898300-ec47-4f4c-8649-d14fe9c1e724)
+
+Agility Game Board
+
 Create yarn.lock file as follows:
 
 ```
